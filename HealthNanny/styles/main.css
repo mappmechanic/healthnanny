@@ -1,0 +1,26 @@
+body
+{
+    font: Arial, sans-serif;
+}
+
+.buttonArea,
+.footerText,
+#geoLocationContainer,
+#helloWorldInput,
+#helloWorldText
+{
+    text-align: center;
+}
+
+#txtName
+{
+    border: 1px solid #AAA;
+    border-radius: 15px;
+    position:static;
+    margin-left: 1em;
+    margin-top: 0.3em;
+    margin-bottom: 0.3em;
+    background:white;
+    color: black;
+    padding: 7px;
+}
